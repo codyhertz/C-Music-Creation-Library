@@ -1,0 +1,5 @@
+Improved way to write music in C++, rather than being based off of frequencies and
+millisecond times for the length of a note, it uses notes(a-g), BPM, octaves,
+and note values.
+
+Only works in Windows as it uses the Windows library's Beep function

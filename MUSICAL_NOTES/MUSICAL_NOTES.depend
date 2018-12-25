@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1508466412 source:c:\users\codyh\desktop\programs\musical_notes\main.cpp
+	<iostream>
+	"songLibrary.h"
+
+1508396106 c:\users\codyh\desktop\programs\musical_notes\musical_notes.h
+	<windows.h>
+	<iostream>
+	<cmath>
+
+1509135010 source:c:\users\codyh\desktop\programs\musical_notes\musical_notes_imp.cpp
+	"MUSICAL_NOTES.h"
+
+1508402570 c:\users\codyh\desktop\programs\musical_notes\songlibrary.h
+	"MUSICAL_NOTES.h"
+	<conio.h>
+	<cstdlib>
+
+1517445207 source:c:\users\codyh\desktop\programs\musical_notes\songlibraryimplementation.cpp
+	"songLibrary.h"
+

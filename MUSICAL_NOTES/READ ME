@@ -3,3 +3,5 @@ millisecond times for the length of a note, it uses notes(a-g), BPM, octaves,
 and note values.
 
 Only works in Windows as it uses the Windows library's Beep function
+
+*Library is the header and MUSICAL_NOTES_IMP.cpp file, others are for reference on how to use the library.
